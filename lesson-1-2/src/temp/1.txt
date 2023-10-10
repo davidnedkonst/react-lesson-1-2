@@ -1,0 +1,5 @@
+Components -- Props
+1. App
+2. PageTitle -- {title:string}
+3. EventBoard -- {eventList:array}
+4. EventCard -- {name:string, location:string, speaker:string, type:string, timeStart:string, timeEnd:string}
